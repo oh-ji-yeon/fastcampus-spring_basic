@@ -1,0 +1,10 @@
+INDEX VERSION 1.4+D:\fastcampus-spring_basic(2025)\spring_basic\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2293189415.index
+2415766096.index
+1000228239.index
+4006255559.index
+3518962449.index
+3518962449.index
+4175057209.index
+2307160726.index
+2328645600.index

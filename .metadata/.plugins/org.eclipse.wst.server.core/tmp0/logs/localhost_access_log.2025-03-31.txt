@@ -1,0 +1,8 @@
+127.0.0.1 - - [31/Mar/2025:14:32:21 +0900] "GET / HTTP/1.1" 404 808
+0:0:0:0:0:0:0:1 - - [31/Mar/2025:14:32:23 +0900] "GET /ch2/ HTTP/1.1" 200 164
+0:0:0:0:0:0:0:1 - - [31/Mar/2025:14:32:24 +0900] "GET /favicon.ico HTTP/1.1" 404 819
+0:0:0:0:0:0:0:1 - - [31/Mar/2025:14:32:34 +0900] "GET /ch2/getYoilMVC?year=2021&month=1&day=1 HTTP/1.1" 200 112
+0:0:0:0:0:0:0:1 - - [31/Mar/2025:14:32:36 +0900] "GET /ch2/getYoilMVC?year=2021&month=1&day=1 HTTP/1.1" 200 112
+127.0.0.1 - - [31/Mar/2025:17:28:25 +0900] "GET / HTTP/1.1" 404 808
+0:0:0:0:0:0:0:1 - - [31/Mar/2025:17:28:26 +0900] "GET /ch2/servlet/com.fastcampus.ch2.MyDispatcherServlet HTTP/1.1" 404 722
+0:0:0:0:0:0:0:1 - - [31/Mar/2025:17:29:01 +0900] "GET /ch2/myDispatcherServlet?year=2021&month=10&day=1 HTTP/1.1" 200 287
